@@ -1,0 +1,60 @@
+{
+	"name": {
+		"common": "Austria",
+		"official": "Republic of Austria",
+		"native": {
+			"bar": {
+				"official": "Republik Österreich",
+				"common": "Österreich"
+			}
+		}
+	},
+	"tld": [".at"],
+	"cca2": "AT",
+	"ccn3": "040",
+	"cca3": "AUT",
+	"cioc": "AUT",
+	"independent": true,
+	"status": "officially-assigned",
+	"unMember": true,
+	"currencies": {"EUR": {"name": "Euro", "symbol": "\u20ac"}},
+	"idd": {
+		"root": "+4",
+		"suffixes": ["3"]
+	},
+	"capital": ["Vienna"],
+	"altSpellings": ["AT", "Osterreich", "Oesterreich"],
+	"region": "Europe",
+	"subregion": "Western Europe",
+	"languages": {
+		"bar": "Austro-Bavarian German"
+	},
+	"translations": {
+		"cym": {"official": "Republic of Austria", "common": "Awstria"},
+		"deu": {"official": "Republik Österreich", "common": "Österreich"},
+		"fra": {"official": "République d'Autriche", "common": "Autriche"},
+		"hrv": {"official": "Republika Austrija", "common": "Austrija"},
+		"ita": {"official": "Repubblica d'Austria", "common": "Austria"},
+		"jpn": {"official": "オーストリア共和国", "common": "オーストリア"},
+		"nld": {"official": "Republiek Oostenrijk", "common": "Oostenrijk"},
+		"por": {"official": "República da Áustria", "common": "Áustria"},
+		"rus": {"official": "Австрийская Республика", "common": "Австрия"},
+		"spa": {"official": "República de Austria", "common": "Austria"}
+	},
+	"latlng": [47.33333333, 13.33333333],
+	"demonyms": {
+		"fra": {
+			"f": "Autrichienne",
+			"m": "Autrichien"
+		},
+		"spa": {
+			"f": "Austriaco",
+			"m": "Austriaca"
+		}
+	},
+	"landlocked": true,
+	"borders": ["CZE", "DEU", "HUN", "ITA", "LIE", "SVK", "SVN", "CHE"],
+	"area": 83871,
+	"callingCodes": ["+43"]
+	"flag": "\ud83c\udde6\ud83c\uddf9"
+}
