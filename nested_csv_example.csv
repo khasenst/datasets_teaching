@@ -1,0 +1,6 @@
+name,age,address_street,address_city,address_zipcode,hobby
+Alice,19,123 Main St,San Diego,92182,reading
+Alice,19,123 Main St,San Diego,92182,hiking
+Alice,19,123 Main St,San Diego,92182,surfing
+Pedro,18,456 Elm St,Los Angeles,90745,gaming
+Pedro,18,456 Elm St,Los Angeles,90745,cycling

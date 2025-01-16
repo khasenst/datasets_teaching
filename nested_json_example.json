@@ -1,0 +1,24 @@
+{
+  "students": [
+    {
+      "name": "Alice",
+      "age": 19,
+      "address": {
+        "street": "123 Main St",
+        "city": "San Diego",
+        "zipcode": "92182"
+      },
+      "hobbies": ["reading", "hiking", "surfing"]
+    },
+    {
+      "name": "Pedro",
+      "age": 18,
+      "address": {
+        "street": "456 Elm St",
+        "city": "Los Angeles",
+        "zipcode": "90745"
+      },
+      "hobbies": ["gaming", "cycling"]
+    }
+  ]
+}
