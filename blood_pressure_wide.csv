@@ -1,0 +1,4 @@
+Patient.ID,Systolic.BP.T1,Diastolic.BP.T1,Systolic.BP.T2,Diastolic.BP.T2,Systolic.BP.T3,Diastolic.BP.T3
+P001,168,109,151,73,169,71
+P002,124,75,NA,NA,171,98
+P004,164,79,173,105,112,83
