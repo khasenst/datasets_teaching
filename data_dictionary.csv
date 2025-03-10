@@ -1,0 +1,29 @@
+Variable,Description
+sid,Anonymized patient ID
+visit_year,Year of visit
+visit_date,Data of visit
+visit_age,Age at time of visit
+gender,"1=Male, 2=Female"
+race,"1=White, 2=Black or African American"
+smoking_status,"0=Never-smoked, 1=Former smoker, 2=Current smoker"
+height_cm,Height in centimeters
+weight_kg,Weight in kilograms
+blood_pressure_systolic,Systolic blood pressure
+blood_pressure_diastolic,Diastolic blood pressure
+heart_rate,Heart rate
+hours_on_oxygen,"On typical 24-hour day, how many hours supplemental 02 used [hours]"
+bmi,Body mass index
+smoke_start_age,How old were you when you first started cigarette smoking? (years old)
+cigs_per_day_avg,"Average for entire time, how many cigarettes smoked per day (cigarettes/day)"
+duration_smoking,"Duration of smoking, years"
+respiratory,Respiratory-related diagnoses
+lung_volume_inspiratory,Volume of air in lungs at full inspiration (full breath-hold) [Liters]
+emphysema_percentage,Percentage of emphysema (damaged lung areas) [%]
+lung_volume_expiratory,Volume of air in lungs at expiration (exhale) [Liters]
+gas_trapping_percentage,Percentage of air trapping in lungs after exhaling [%]
+mean_density_inspiratory,Average lung density at full inspiration (full breath-hold) [Hounsfield units]
+mean_density_expiratory,Average lung density at expiration (exhale) [Hounsfield units]
+fev1_fvc_ratio,Ratio between FEV1 and FVC
+fev1,Forced expiratory volume in 1 second - volume of air forcefully exhaled in 1 second
+fvc,Forced vital capacity - volume of air exhaled after full breath
+fev1_phase2,FEV1 five years later - volume of air forcefully exhaled in 1 second
